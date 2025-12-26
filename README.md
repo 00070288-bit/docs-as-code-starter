@@ -8,7 +8,7 @@ Click the green **Code** button and copy the repository URL.
 Then run:
 
 git clone 
-https://github.com/<your-username>/docs-as-code-starter.git
+https://github.com/00070288-bit/docs-as-code-starter.git
 
 # 2) Open the Project
 Open the folder in VS Code or your preferred editor.
